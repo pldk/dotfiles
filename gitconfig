@@ -46,3 +46,6 @@
 
 [push]
 	default = simple
+[user]
+	email = philippe.deliedekerke@gmail.com
+	name = "Philippe Deliedekerke"
