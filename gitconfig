@@ -1,5 +1,3 @@
-[user]
-
 [color]
   branch = auto
   diff = auto
@@ -12,9 +10,7 @@
   remote = yellow
 
 [core]
-  editor = subl -n -w
   pager = less -FRSX
-  mergeoptions = --no-edit
 
 [alias]
   co = checkout
@@ -46,6 +42,10 @@
 
 [push]
 	default = simple
+
 [user]
 	email = philippe.deliedekerke@gmail.com
 	name = "Philippe Deliedekerke"
+
+[branch "master"]
+  mergeoptions = --no-edit
