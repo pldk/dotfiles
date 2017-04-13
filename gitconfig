@@ -11,6 +11,7 @@
 
 [core]
   pager = less -FRSX
+	editor = '/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -n -w
 
 [alias]
   co = checkout
@@ -45,7 +46,7 @@
 
 [user]
 	email = philippe.deliedekerke@gmail.com
-	name = "Philippe Deliedekerke"
+	name = philippe de liedekerke
 
 [branch "master"]
   mergeoptions = --no-edit
