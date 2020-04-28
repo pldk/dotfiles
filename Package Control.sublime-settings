@@ -1,5 +1,12 @@
 {
 	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"All Autocomplete",
+		"ApplySyntax",
+		"BracketHighlighter",
+		"GitGutter"
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -7,11 +14,21 @@
 		"ApplySyntax",
 		"BracketHighlighter",
 		"Emmet",
+		"ERB Snippets",
 		"Git",
 		"GitGutter",
 		"JSX",
 		"Package Control",
-		"SCSS",
-		"ERB Snippets"
+		"Ruby Blue Color Scheme",
+		"Ruby Completions",
+		"Ruby Debugger",
+		"Ruby on Rails snippets",
+		"Rubycritic",
+		"RubyEval",
+		"RubyMotion Autocomplete",
+		"RubyMotionBuilder",
+		"RubyMotionSpec",
+		"RubyTest",
+		"SCSS"
 	]
 }
