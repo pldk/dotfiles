@@ -46,7 +46,7 @@
 
 [user]
 	email = philippe.deliedekerke@gmail.com
-	name = philippe de liedekerke
+	name = Philippe de Liedekerke
 
 [branch "master"]
   mergeoptions = --no-edit
